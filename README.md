@@ -1,2 +1,2 @@
 # genetic-algorithm
-mã nguồn demo cho bài toán Experimental Optimization of 10D Rastrigin Function
+mã nguồn cho BTL học phần KTTT học kỳ 2025.1
